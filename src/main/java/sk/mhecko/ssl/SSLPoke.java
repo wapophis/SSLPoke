@@ -1,5 +1,3 @@
-package sk.mhecko.ssl;
-
 import javax.net.ssl.SSLSocket;
 import javax.net.ssl.SSLSocketFactory;
 import java.io.InputStream;
